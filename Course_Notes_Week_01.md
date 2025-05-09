@@ -1,3 +1,5 @@
+[Course Notes](README.md)
+
 AI value creation (by 2030, a McKinsey report)
 in the SW industry
 in other sectors
@@ -44,3 +46,5 @@ Any one time effort at successfully launching an AI project, doesn't make any co
 AI technology is certainly powerful and can bring a lot of positive impact, it can't do just about anything.
 ML is quite suitable and capable of learning a simple concept... something that generally takes a human less than a second of thought to do with the assumptions there's plenty of data available
 ML tends to do poorly when there's not enough data and it does miserably when trying to learn a complex concept. It also struggles with coping with new data samples - sample that 'jump out' from the given dataset with which the model was trained
+
+[Course Notes](README.md)

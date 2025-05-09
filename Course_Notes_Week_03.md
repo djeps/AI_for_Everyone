@@ -1,3 +1,5 @@
+[Course Notes](README.md)
+
 Steps when building an AI-powered speaker
 Trigger/wake word detection e.g. "Hey device!"
 Simple A to B mapping i.e. trigger word detected!
@@ -72,3 +74,5 @@ Transfer Learning (apply an existing model on something very similar so that we 
 Reinforcement Learning (introduce a reward signal to the AI agent whenever it does well and the other way around and in time it will learn to maximize its rewards)
 GANs or Generative Adversarial Networks (e.g. synthesize new images completely from scratch)
 Knowledge Mapping
+
+[Course Notes](README.md)

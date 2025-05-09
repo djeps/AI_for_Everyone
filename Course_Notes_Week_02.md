@@ -1,3 +1,5 @@
+[Course Notes](README.md)
+
 ML algorithms are able to learn or map A to B or input(s) to output
 Key steps of any AI/ML project would be:
 Collect (enough) data
@@ -46,3 +48,5 @@ Strictly speaking, ML projects could be done either way i.e. in-house or outsour
 DS projects are typically (and best when) done in-house - or at least, they should be done that way.
 Then there are golden standards in every industry i.e. systems which are readily available and proven.
 Don't sprint in front of a fast moving train! IT makes no sense. Buy someone else's platform.
+
+[Course Notes](README.md)

@@ -1,3 +1,5 @@
+[Course Notes](README.md)
+
 AI is definitely going to affect the way we live
 It is already having an impact on society
 Huge advancements in industry, creating a lot of new opportunities
@@ -37,3 +39,5 @@ But we should be fair and discuss job displacement as well i.e. while certainly 
 Hence investing in education and updating the entire model, increases the odds of future generations being fairly positioned on the new labor market!
 In some case good (for example in certain developing economies it helped 'leapfrog' certain technologies and allowed early adoption of new ones)
 Use AI to strengthen and enhance a country's already existing potential or a vertical industry rather than competing with others over the same
+
+[Course Notes](README.md)
