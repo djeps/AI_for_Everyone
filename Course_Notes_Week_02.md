@@ -2,14 +2,14 @@
 
 - ML algorithms are able to learn or map A to B or input(s) to output
     - Key steps of any AI/ML project would be:
-        - <u>Collect</u> (enough) data
+        - <ins>Collect</ins> (enough) data
             - What's *enough*? Whatever is reasonable data to start training the model
             - We need good and bad samples i.e. data that correctly represents the input we 
               wish to train the model on, as well as data from the other spectrum
             - For example, in the case of an image recognition system that is to train
               recognizing cats, we need lots of images with cats and vise versa, lots of 
               images which don't represent cats
-        - <u>Train</u> the model
+        - <ins>Train</ins> the model
             - This is an iterative process i.e. we train the model until its performance 
               becomes good enough and acceptable
             - What is our acceptance criteria? What is the acceptance threshold?
@@ -18,7 +18,7 @@
             - Never expect 100% accuracy! It's just simply impossible! Assuming that it's 
               possible is assuming ML is perfect and the dataset impeccable - which 
               certainly, is not the case!
-        - <u>Deploy</u> the model (e.g. as part of a product/service)
+        - <ins>Deploy</ins> the model (e.g. as part of a product/service)
             - This too is not a one-time effort as we may realize the model isn't good 
               enough, and we might need to improve it
             - For example, in a case of a speech recognition project, we may train the 
@@ -32,11 +32,11 @@
       is an actual and actionable insight i.e. a conclusion derived from which me may 
       decide to take further actions
     - The key steps in a DS project would be:
-        - <u>Collect</u> data
-        - <u>Analyze</u> the data
+        - <ins>Collect</ins> data
+        - <ins>Analyze</ins> the data
             - Similarly to a ML project, this is an iterative process i.e. repeat until our 
               insights are firmly set an clear
-        - <u>Suggest</u> a hypothesis
+        - <ins>Suggest</ins> a hypothesis
             - Act upon the insights i.e. take certain actions - optimize and automate!
             - Periodically analyze new data and adapt/adjust if necessary
 - Data and the use of data is transformative for every job out there
@@ -47,19 +47,19 @@
       what's not (technical diligence)
     - The cross-functional team will then try to find the cross section between the two i.e. 
       *what's possible to do while at the same time generating business value*
-    - <u>Technical diligence</u>
+    - <ins>Technical diligence</ins>
         - Is it doable
         - What (and if any) data is available and how much data is needed
         - Timeline!
-    - <u>Business diligence</u>
+    - <ins>Business diligence</ins>
         - Will it...
             - Lower existing costs
             - Increase revenue
             - Help launch a new product/service
             - or all of the above
-    - <u>Ethical diligence</u>
-- When speaking about AI in general, we should be talking about <u>automating tasks</u> and 
-  <u>not automating positions</u>!
+    - <ins>Ethical diligence</ins>
+- When speaking about AI in general, we should be talking about <ins>automating tasks</ins> and 
+  <ins>not automating positions</ins>!
 - Having more data is almost never bad, but sometimes we are able to 'start small' and  
   'grow big'
 - Build or buy!?
